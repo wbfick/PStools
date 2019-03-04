@@ -1,0 +1,1 @@
+[pscustomobject]@{'Computername'='localhost'} | Test-Connection
