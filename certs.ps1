@@ -1,4 +1,6 @@
-﻿#'C:\Program Files\Microsoft SDKs\Windows\v7.1\Bin\makecert.exe'
+#Updated on 3/3/2019
+
+#'C:\Program Files\Microsoft SDKs\Windows\v7.1\Bin\makecert.exe'
 
 #makecert -n "CN=PowerShell Local Certificate Root" -a sha1 -eku 1.3.6.1.5.5.7.3.3 -r -sv root.pvk root.cer -ss Root -sr localMachine
 
